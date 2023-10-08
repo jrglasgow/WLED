@@ -102,7 +102,7 @@
 #endif
 
 #ifdef USERMOD_ROTARY_ENCODER_BRIGHTNESS_COLOR
-  #include "../usermods/usermod_rotary_brightness_color/usermod_rotary_brightness_color.h"
+  #include "../usermods/SSD/usermod_rotary_brightness_color.h"
 #endif
 
 #ifdef RGB_ROTARY_ENCODER
